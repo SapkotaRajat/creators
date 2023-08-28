@@ -26,7 +26,7 @@ class Footer extends HTMLElement {
                                   </svg>
                               </span>
                               <div class="details">
-                                  <span class="name">Dhiraj Kumar Shah Kanu</span>
+                                  <span class="name">Dhiraj Kumar Sah Kanu</span>
                                   <a href="tel:+9779840600251"><span class="number">9840600251</span></a>
                               </div>
                           </div>
